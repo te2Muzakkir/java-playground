@@ -1,4 +1,4 @@
-package dev.muzakkirlabs.logic;
+package dev.muzakkirlabs.logic.atm;
 
 import java.util.ArrayList;
 import java.util.Collections;
